@@ -1,0 +1,18 @@
+# Local design and editing source files
+*.psd
+*.psb
+*.ai
+*.aep
+*.blend
+*.mov
+
+# Raw or unused source folders
+**/raw/
+**/source/
+**/unused/
+**/backup/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
